@@ -18,6 +18,7 @@ Pressing it, a guessing button will appear. Then continue guessing and start pla
 </ul>
 
 <h2>This is a special report from my school</h2>
+<h2>Copyright © 2024 Ben6370. All rights reserved.</h2>
 <a href="https://ben6370.github.io">THE WEBSITE</a>
 
 
