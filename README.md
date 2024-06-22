@@ -1,10 +1,13 @@
-#How to use the website
+<h1>How to use the website</h1>
 
-Open the index file and you can see that there is a start button in the website. 
-Pressing it, a guessing button will appear. Then continue guessing and start playing.
+<p>Open the index file and you can see that there is a start button in the website. 
+Pressing it, a guessing button will appear. Then continue guessing and start playing.</p>
 
-#Function
--Achievement system
--Anti-peeping code
--Model of teachable machine
-#This is a special report from my school
+<h1>Function</h1>
+<ul>
+  <li>Achievement system</li>
+  <li>Anti-peeping code</li>
+  <li>Model of teachable machine</li>
+</ul>
+
+<h1>This is a special report from my school</h1>
